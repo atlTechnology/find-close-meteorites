@@ -9,4 +9,4 @@ First install pipenv. Then:
 
 pip3 install pipenv
 
-pipenv run python find-meteor.py
+pipenv run python ./meteor/find-meteor.py
